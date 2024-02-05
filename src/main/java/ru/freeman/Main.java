@@ -6,4 +6,8 @@ public class Main {
 
         System.out.println("Hello qa.guru!");
     }
+
+    private static String getmassage(){
+        return "Hello qa.guru!";
+    }
 }
